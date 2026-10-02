@@ -172,8 +172,7 @@ draw_set_color(
 );
 
 
-draw_rectangle(
-    _bar_x,
+draw_rectangle( _bar_x,
     _bar_y,
 
     _bar_x +
